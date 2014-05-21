@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-this is a test repo
+this is the required repo for the coursera class
